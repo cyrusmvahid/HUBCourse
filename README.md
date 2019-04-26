@@ -1,5 +1,6 @@
 # Course Description
 # Environmnet set up
+To install Conda please refer to [this link](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
 ```
  conda create -n HUB python=3.6 anaconda
  source activate HUB
