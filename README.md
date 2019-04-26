@@ -1,5 +1,8 @@
 # Course Description
 # Environmnet set up
+To install git on your Windows laptop please watch: https://www.youtube.com/watch?v=albr1o7Z1nw
+To install conda on your Windows laptop please watch: https://www.youtube.com/watch?v=dWeWCQmewLc
+
 To install Conda please refer to [this link](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
 ```
  conda create -n HUB python=3.6 anaconda
@@ -13,6 +16,10 @@ To install Conda please refer to [this link](https://docs.conda.io/projects/cond
  #To leave the environment
  conda deactivate
  ```
+## Cloning the repository
+```
+git clone --recurse-submodules https://github.com/cyrusmvahid/HUBCourse
+```
 # References
 - for self-learning python refer to: https://www.learnpython.org/
 - for self-learning python and numpy refer to: https://www.datacamp.com/home
