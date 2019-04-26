@@ -16,6 +16,10 @@ To install Conda please refer to [this link](https://docs.conda.io/projects/cond
  #To leave the environment
  conda deactivate
  ```
+## Cloning the repository
+```
+git clone --recurse-submodules https://github.com/cyrusmvahid/HUBCourse
+```
 # References
 - for self-learning python refer to: https://www.learnpython.org/
 - for self-learning python and numpy refer to: https://www.datacamp.com/home
