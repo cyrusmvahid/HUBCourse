@@ -1,5 +1,8 @@
 # Course Description
 # Environmnet set up
+To install git on your Windows laptop please watch: https://www.youtube.com/watch?v=albr1o7Z1nw
+To install conda on your Windows laptop please watch: https://www.youtube.com/watch?v=dWeWCQmewLc
+
 To install Conda please refer to [this link](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
 ```
  conda create -n HUB python=3.6 anaconda
