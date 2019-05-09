@@ -1,0 +1,3 @@
+[submodule "aim-418-labs"]
+	path = aim-418-labs
+	url = https://github.com/cyrusmvahid/aim-418-labs.git
